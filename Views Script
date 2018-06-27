@@ -1,7 +1,0 @@
-VIEW 1 : to list NC customers :-
-
-CREATE VIEW nc_customers AS SELECT * FROM petsprojectschema.Customers WHERE state ='NC'  
-
-VIEW 2 : to count total pets based on their size :- 
-
-CREATE VIEW  no_of_pets_size  AS  SELECT pet_size,COUNT(pets_id) FROM petsprojectschema.pets group by pet_size;
