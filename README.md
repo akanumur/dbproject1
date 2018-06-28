@@ -41,7 +41,7 @@ Attaching (Schema.jpg and EERD.pdf)
 
 
 DATA DICTIONARY :
-Information word reference is set of records which shows Meta (information of information). It speaks to the documents display, tables, relations, proprietor send and so forth introduce in the undertaking
+Information word reference is set of records which shows Meta (information of information). It speaks to the documents display, tables, relations, proprietor send and so forth introduce in the undertaking (Data Dictionary.docx)
 
 
 VIEWS:
