@@ -56,3 +56,6 @@ Documentation for TRIGGER attached (Trigger.docx)
 
 TURN IN SQL DUMP WITH DATA:
 PAWStively PURRfectly.sql
+
+SKILLS LEARNT : 
+ER DIAGRAM, SQL, MYSQL
